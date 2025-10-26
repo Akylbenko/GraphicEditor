@@ -8,7 +8,7 @@ namespace GraphicEditor
         private Point _startpoint;
         private Point _endPoint;
 
-        public Point EndPoint
+        public Point EndPoint 
         {
             get { return _endPoint; }
             set { _endPoint = value; }
